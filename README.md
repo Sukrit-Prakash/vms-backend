@@ -1,5 +1,5 @@
 # Video Management System (VMS) Backend
-
+ you can see frontend screenshots at screenshots folder
 ## Setup Instructions
 
 1. **Install dependencies:**
